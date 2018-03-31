@@ -138,6 +138,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Functional Programming
 
+## Clojure
+
+- [Defn](https://defn.audio/)
+
+  - <b>Description</b>: Interviews with leaders and folks of the Clojure and ClojureScript community.
+  - <b>Frequency</b>  : Every other week
+
 - Elixir Talk ([Soundcloud](https://soundcloud.com/elixirtalk) | [iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048))
   - <b>Description</b>: Titillating discussion about Elixir application design and ecosystem state.
   - <b>Frequency</b>  : Twice per month
